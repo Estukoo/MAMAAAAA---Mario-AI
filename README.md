@@ -39,4 +39,5 @@ Ce projet est sous licence MIT - voir le fichier [LICENSE](LICENSE) pour plus de
 ## Remerciements
 
 Laupok - Pour l'idée
+
 ChatGPT- Pour ce beau markdown parce que j'avais une légère flemme (j'espère il a pas dit n'importe quoi)
