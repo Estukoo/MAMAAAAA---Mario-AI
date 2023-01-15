@@ -168,6 +168,7 @@ while running:
         
         # Actualisation de la position du Boo en fonction de la position de la souris
         mouse_x, mouse_y = pygame.mouse.get_pos()
+        App.set_threshold(2.5)
         App.update(100, 435, mouse_x, mouse_y)
             
     # Effacer l'écran
